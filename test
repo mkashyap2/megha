@@ -1,0 +1,25 @@
+name: test megha
+id: 'ari:cloud:compass:7ca5fa16-dc25-41b6-b9d5-aab064b539d2:component/47d87055-7d70-4689-afab-36a9cbda719d/23dbb95d-d595-4f61-83bf-fd46977da2d5'
+description: null
+configVersion: 1
+typeId: SERVICE
+ownerId: 'ari:cloud:identity::team/e52059ee-2d26-4e2a-92b8-d7655c3ac600'
+fields:
+  tier: 4
+  isMonorepoProject: false
+links:
+  - name: ''
+    type: REPOSITORY
+    url: 'https://github.com/mkashyap2/megha'
+  - name: ''
+    type: REPOSITORY
+    url: 'https://github.com/mkashyap2/megha.git'
+  - name: megha
+    type: DOCUMENT
+    url: 'https://hello.atlassian.net/wiki/spaces/~67296525/pages/edit-v2/5499502361?draftShareId=e27a2c33-3b0f-4349-8263-0d6bc99a16b8'
+  - name: megha api doc
+    type: DOCUMENT
+    url: 'https://hello.atlassian.net/wiki/spaces/~67296525/pages/edit-v2/5979376396?draftShareId=4fdbd0c6-2a98-4363-98fe-334a52534c6f'
+relationships: {}
+labels: null
+customFields: null
